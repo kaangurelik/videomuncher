@@ -1,0 +1,4 @@
+faster-whisper>=1.2.1
+av<19  
+nvidia-cublas-cu12  # CUDA 12 cuBLAS DLLs for ctranslate2 on the GPU
+nvidia-cudnn-cu12   # cuDNN 9 DLLs for ctranslate2 on the GPU
